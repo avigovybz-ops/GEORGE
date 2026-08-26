@@ -1,0 +1,6 @@
+{
+  "name": "MY SENDER",
+  "description": "Fast, offline Android file-sharing app to transfer photos, videos, music, apps, documents, and folders directly between nearby devices.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
